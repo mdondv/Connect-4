@@ -1,5 +1,5 @@
-#include "minimaxBis.h"
-#include "heuristicBis.h"
+#include "minimax.h"
+#include "heuristic.h"
 #include "printaTauler.h"
 #include "modesJoc.h"
 
